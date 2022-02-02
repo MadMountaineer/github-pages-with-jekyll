@@ -1,4 +1,4 @@
 ---
-title: "YOUR-TITLE"
-date: YYYY-MM-DD
+title: "Learning GitHub Pages!"
+date: 2022-02-02
 ---
